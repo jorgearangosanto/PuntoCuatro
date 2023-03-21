@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PuntoCuatro</string>
+    <string name="title">Conversor Monedas</string>
+    <string name="monedaUno">Selecciona la moneda</string>
+    <string name="monedados">Moneda de conversión</string>
+    <string name="Ingresa">Ingresa el valor a convertir</string>
+    <string name="convertir">convertir</string>
+    <string name="emptyfield">Existen campos vacios</string>
+    <string name="mensaje">la cantidad es : </string>
+
+    <string-array name="monedas">
+        <item>Dólar</item>
+        <item>Euro</item>
+        <item>Peso COP</item>
+    </string-array>
+
+</resources>
